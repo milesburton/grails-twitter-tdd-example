@@ -17,9 +17,8 @@ grails.project.dependency.resolution = {
 
     repositories {
 
-        grailsRepo 'http://grails.org/plugins' // @see http://grails.1312388.n4.nabble.com/Plugin-publication-migration-HOWTO-td4474812.html - remove when we have a proxy and/or when grails.org issues are resolved
+	mavenRepo "http://repo.grails.org/grails/plugins"
 
-        grailsPlugins()
         grailsHome()
         grailsCentral()
         mavenCentral()
