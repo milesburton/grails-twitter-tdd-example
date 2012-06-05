@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'EngraversGothicBT';
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_0.eot');
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_0.eot?#iefix') format('embedded-opentype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_0.woff') format('woff'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_0.ttf') format('truetype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_0.svg#wf') format('svg');
+}
+
+@font-face {
+    font-family: 'BrandonGrotesque-Regular';
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_1.eot');
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_1.eot?#iefix') format('embedded-opentype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_1.woff') format('woff'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_1.ttf') format('truetype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_1.svg#wf') format('svg');
+}
+
+@font-face {
+    font-family: 'BrandonGrotesque-Bold';
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_2.eot');
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_2.eot?#iefix') format('embedded-opentype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_2.woff') format('woff'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_2.ttf') format('truetype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_2.svg#wf') format('svg');
+}
+
+@font-face {
+    font-family: 'BauerBod-RegIta';
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_3.eot');
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_3.eot?#iefix') format('embedded-opentype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_3.woff') format('woff'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_3.ttf') format('truetype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_3.svg#wf') format('svg');
+}
+
+@font-face {
+    font-family: 'BrandonGrotesque-Light';
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_4.eot');
+    src: url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_4.eot?#iefix') format('embedded-opentype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_4.woff') format('woff'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_4.ttf') format('truetype'), url('http://www.whatsinmyhandbag.com/css/webfonts/13AFB4_4.svg#wf') format('svg');
+}
+
+@font-face {
+    font-family: 'Bodoni';url('http://www.whatsinmyhandbag.com/css/webfonts/bodoni.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Bodoni-RegIta';url('http://www.whatsinmyhandbag.com/css/webfonts/bodoni-regular-italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Bodoni-BoldIta';url('http://www.whatsinmyhandbag.com/css/webfonts/bodoni-bold-italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Bodoni-Bold';url('http://www.whatsinmyhandbag.com/css/webfonts/bodoni-bold.ttf') format('truetype');
+}

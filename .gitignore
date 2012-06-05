@@ -1,0 +1,15 @@
+.idea
+classes
+target
+out
+build
+*.iml
+*.ipr
+*.iws
+*.log
+*.war
+.idea
+.project
+.classpath
+.settings
+.gradle
