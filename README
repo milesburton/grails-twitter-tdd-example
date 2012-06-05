@@ -1,0 +1,2 @@
+= Integrating Grails with Twitter4J with full unit and functional tests =
+This is a simple example of how to integrate Twitter4J into a production grails application. It includes example stubbing, fake end points and functional geb tests
