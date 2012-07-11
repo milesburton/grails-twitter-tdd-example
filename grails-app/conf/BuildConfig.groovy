@@ -24,7 +24,7 @@ grails.project.dependency.resolution = {
         mavenCentral()
 
         mavenRepo 'http://maven.antelink.com/content/repositories/central'
-        mavenRepo 'http://build.mnetcs.com:8081/artifactory/public'
+        mavenRepo 'http://artifactory.milesburton.com/public'
 	mavenRepo 'http://www.asual.com/maven/content/groups/public'
     }
     dependencies {
