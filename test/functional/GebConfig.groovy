@@ -1,7 +1,11 @@
+import org.openqa.selenium.remote.DesiredCapabilities
+import org.openqa.selenium.remote.RemoteWebDriver
+import org.openqa.selenium.Platform
+
 baseUrl = 'http://localhost:8080/whatsinmyhandbag-twitter/'
 
 sauce {
-	baseUrl = 'http://myapp.test/whatsinmyhandbag-twitter/'
+	baseUrl = 'http://localhost:8080/'
 	String username = System.getenv("SAUCE_ONDEMAND_USERNAME");
 	String apiKey = System.getenv("SAUCE_ONDEMAND_ACCESS_KEY");
 	if(username == null || apiKey == null){
