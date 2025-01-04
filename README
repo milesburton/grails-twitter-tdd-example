@@ -1,2 +1,39 @@
-= Integrating Grails with Twitter4J with full unit and functional tests =
-This is a simple example of how to integrate Twitter4J into a production grails application. It includes example stubbing, fake end points and functional geb tests
+# Mock Twitter Example: Standalone Grails Application for Learning
+
+This repository provides a **standalone Grails application** that uses a "Twitter" concept as an educational example. It is designed to help students learn how to:
+
+- Build a basic Grails application.
+- Test application functionality using unit and functional tests.
+- Mock services and endpoints to simulate real-world use cases.
+
+This example does not integrate with Twitter or any third-party libraries like Twitter4J. It is purely a demonstration tool.
+
+## About
+
+The "Twitter" theme is used as an example to structure the application's content and features. The project focuses on foundational Grails development practices and testing methodologies.
+
+Key components include:
+
+- **Unit Tests**: Isolated tests for application logic.
+- **Functional Tests**: Simulated end-to-end tests using **Geb**.
+- **Mock Services**: Examples of stubbing services to mimic external interactions.
+- **Fake Endpoints**: Demonstrations of how to create simulated API responses.
+
+## Features
+
+- **Standalone Example**: Fully self-contained Grails application for demonstration purposes.
+- **Mock Services and Endpoints**: Replace real-world integrations with simulated data.
+- **Testing Examples**: Pre-configured unit and functional tests for learning purposes.
+
+## Getting Started
+
+### Prerequisites
+- **Grails**: Ensure you have Grails installed. [Installation Guide](https://grails.org/download.html)
+- **Java**: Compatible JDK version for your Grails version.
+
+### Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-repository/mock-twitter-grails-example.git
+   cd mock-twitter-grails-example
